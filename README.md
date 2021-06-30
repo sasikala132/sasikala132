@@ -6,7 +6,7 @@
 
 ## My GitHub stats:
 
-![Gitstats](https://github-readme-statsv2-ten.vercel.app/api?username=kasinadh132)
+![Gitstats](https://github.com/sasikala132/sasikala132)
 
 ![profile_stats]https://github.com/sasikala132/sasikala132/tree/main)
 
