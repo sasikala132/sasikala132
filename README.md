@@ -1,12 +1,16 @@
-### Hi there 👋
+#  Hi,👋 I’m swayampakula.lakshmi sasikala aka  @sasikala132
+- 👀 I’m interested in java and python and banking
+- 🌱 I’m currently learning python and banking
+- 💞️ I’m looking to collaborate on friends
+- 📫 How to reach me by intenships
 
-<!--
-**sasikala132/sasikala132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My GitHub stats:
 
-Here are some ideas to get you started:
+![Gitstats](https://github-readme-statsv2-ten.vercel.app/api?username=kasinadh132)
 
-- 🌱 I’m currently learning B.TECH FINAL YEAR
-- 👯 I’m looking to collaborate on software or banking
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about studies
+![profile_stats]https://github.com/sasikala132/sasikala132/tree/main)
 
+<!---
+ lakshmi sasikala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
