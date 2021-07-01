@@ -1,6 +1,6 @@
-#  Hi,👋 I’m swayampakula.lakshmi sasikala aka  @sasikala132
-- 👀 I’m interested in java and python and banking
-- 🌱 I’m currently learning python and banking
+#  Hi,👋 I’m swayampakula .lakshmi sasikala aka  @sasikala132
+- 👀 I’m interested in  python,banking and c
+- 🌱 I’m currently learning python,banking and c
 - 💞️ I’m looking to collaborate on friends
 - 📫 How to reach me by intenships
 
